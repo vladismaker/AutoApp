@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AutoApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fab_content_desc">Fab</string>
+    <string name="add_auto">Добавить автомобиль</string>
+    <string name="marka">Марка</string>
+    <string name="drive">Привод</string>
+    <string name="color">Цвет</string>
+    <string name="body">Кузов</string>
+    <string name="add">Добавить</string>
+    <string name="edit">Редактировать</string>
+    <string name="edit_characteristics">Редактировать характеристики</string>
+    <string name="filter">Фильтр</string>
+    <string name="short_edit">Ред-ть</string>
+</resources>
